@@ -1,0 +1,17 @@
+#productList a {
+  text-decoration: none;
+  color: #000;
+}
+
+.web_title{
+  color:#0d6efd
+}
+
+.text-white{
+  color:#0d6efd !important
+}
+
+.web_title h4{
+    margin-bottom: 0;
+    padding: 0;
+}
