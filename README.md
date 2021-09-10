@@ -7,7 +7,7 @@
 ```bash
 $ cd apiservice
 $ npm install
-$ npm start or yarn start(If you have it)
+$ npm start or yarn start
 ```
 Server will run at: http://localhost:8000/
 
@@ -16,6 +16,6 @@ Server will run at: http://localhost:8000/
 ```bash
 $ cd web
 $ npm install
-$ npm run dev or yarn dev(If you have it)
+$ npm run dev or yarn dev
 ```
 Open the web with http://localhost:3000/ 
